@@ -1,3 +1,6 @@
+//Question no: 1358
+
+//Question Name:Number of Substrings Containing All Three Characters
 class Solution {
     public int numberOfSubstrings(String s) {
         int a=0;

@@ -1,3 +1,6 @@
+//Question no: 369
+
+//Question Name:Rotate Function
 class Solution {
     public int maxRotateFunction(int[] nums) {
         List<Integer> list=new ArrayList<Integer>();

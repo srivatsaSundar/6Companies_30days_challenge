@@ -1,3 +1,6 @@
+//Question no: 299
+
+//Question Name:Bulls and Cows
 class Solution {
     public String getHint(String secret, String guess) {
         int[] frq = new int[10];
